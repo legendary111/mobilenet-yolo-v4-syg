@@ -65,8 +65,8 @@ python get_map3.py
 ### evalution metric and result
 | Metric            | Value                |
 |-------------------|----------------------|
-| AP@motor          |  94.5%               |
-| AP@truck          |  57%                 |
-| AP@bus            |  86%                 |
-| AP@car            |  77%                 | 
-| mAP               |  67.84%              | 
+| AP@motor          |  35.52%              |
+| AP@truck          |  100%                |
+| AP@bus            |  100%                |
+| AP@car            |  81.46%              | 
+| mAP               |  79.24%              | 
